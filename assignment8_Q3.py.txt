@@ -1,0 +1,5 @@
+mystr='random'
+mylist=[]
+for char in mystr:
+    mylist+=char
+    print(mylist)

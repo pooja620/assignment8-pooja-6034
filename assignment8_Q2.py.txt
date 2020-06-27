@@ -1,0 +1,4 @@
+str1='c is a programming language.'
+print()
+print(str1.count("programming"))
+print()
